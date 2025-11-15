@@ -1,1 +1,4 @@
 # -AA-Practica_ArbolDecision_carnet
+
+**Autor:William Estuardo Cardona Mateo**
+**Carnet: 202304221**
